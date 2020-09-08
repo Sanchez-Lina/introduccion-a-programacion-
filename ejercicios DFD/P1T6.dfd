@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+68
+'P1T6  COMPARTIVE BIRTH OF TWO PERSON By: Lina Maria Sanchez Romero'
+4
+1
+45
+'IMPUT THE YEAR OF BIRTH OF THE FIRST PERSON'
+5
+1
+5
+yearA
+4
+1
+46
+'IMPUT THE YEAR OF BIRTH OF THE SECOND PERSON'
+5
+1
+5
+yearB
+7
+0
+1
+11
+yearA=yearB
+7
+0
+1
+11
+yearA>yearB
+4
+1
+54
+'THE PERSON B (',yearB,') IS OLDER THAN A (',yearA,')'
+13
+4
+1
+54
+'THE PERSON A (',yearA,') IS OLDER THAN B (',yearB,')'
+13
+13
+4
+1
+54
+'THE TWO PEOPLE ARE THE SAME AGE', yearA, ' = ', yearB
+13
+1
