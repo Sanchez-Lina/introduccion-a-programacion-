@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+47
+'P1T8: BLOOD PRESSURE. By: Lina Sanchez Romero'
+4
+1
+29
+'Input the systolic pressure'
+5
+1
+9
+systolic 
+7
+0
+1
+12
+systolic <=0
+7
+0
+1
+14
+systolic <=120
+7
+0
+1
+33
+systolic >=121 and systolic <=139
+7
+0
+1
+34
+systolic >=140 and systolic <= 159
+4
+1
+32
+'RUUUUNNN, RUN TO THE HOSPITAL' 
+13
+4
+1
+25
+' you have hipertension' 
+13
+13
+4
+1
+27
+'you have pre-hipertension'
+13
+13
+4
+1
+29
+' you have a normal pressure'
+13
+13
+4
+1
+16
+' you are dead' 
+13
+1
