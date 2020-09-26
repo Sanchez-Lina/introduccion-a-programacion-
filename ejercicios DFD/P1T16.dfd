@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'P1T16: CALENDAR.By Lina Sanchez Romero' 
+4
+1
+25
+'Input the month number' 
+5
+1
+5
+month
+7
+0
+1
+21
+month <1 or month >12
+7
+0
+1
+7
+month=2
+7
+0
+1
+41
+month=4 or month=6 or month=9 or month=11
+4
+1
+26
+' this month has 31 days' 
+13
+4
+1
+25
+'This month has 30 days' 
+13
+13
+4
+1
+26
+' This month has 28 days' 
+13
+13
+4
+1
+28
+'ERROR: this month no exist'
+13
+1
