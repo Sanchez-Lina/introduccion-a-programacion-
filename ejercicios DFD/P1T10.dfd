@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'P1T10: SEMETRE GRADES. By Lina Maria Sanchez'
+4
+1
+37
+'input the grades: N1, N2, N3 and N4'
+5
+1
+11
+N1,N2,N3,N4
+6
+1
+6
+TOTAL 
+37
+(N1*0.2)+(N2*0.25)+(N3*0.25)+(N4*0.3)
+4
+1
+50
+'The total final grade in the semester is:', TOTAL
+1
