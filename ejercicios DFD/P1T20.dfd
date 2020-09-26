@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'P1T20 :GRADE POINT AVERAGE. By Lina Sanchez Romero'
+4
+1
+27
+'Input the total students' 
+5
+1
+6
+totest
+6
+1
+6
+grades
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+6
+totest
+1
+1
+1
+4
+1
+45
+'imput grade 1, grade 2 and grade 3 by study'
+5
+1
+8
+N1,N2,N3
+6
+2
+4
+GEST
+24
+(N1*02)+(N2*03) +(N3*05)
+5
+grade
+13
+grades + GEST
+10
+6
+1
+7
+average
+12
+grade/totest
+4
+1
+27
+'the average is'  , average
+1
