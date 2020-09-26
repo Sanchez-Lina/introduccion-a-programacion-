@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'P1T17: PAY POINT.By Lina Sanchez '
+4
+1
+26
+'Input the first product' 
+5
+1
+2
+P1
+4
+1
+27
+'input the second product' 
+5
+1
+2
+P2
+4
+1
+27
+' input the three product' 
+5
+1
+2
+P3
+4
+1
+25
+'input tha four product' 
+5
+1
+2
+P4
+6
+3
+3
+sum
+11
+P1+P2+P3+P4
+3
+iva
+8
+sum*0.19
+5
+total
+7
+sum+iva
+4
+1
+66
+'the sumatory is:$' ,sum, 'iva 19%:$' ,iva, 'total bill:$' ,total 
+1
