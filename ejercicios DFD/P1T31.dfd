@@ -6,22 +6,22 @@
 0
 4
 1
-44
-'P1T31: CALCULATOR. By Lina Sanchez Romero' 
+43
+'P1T31: CALCULATOR. By Lina Sanchez Romero'
 4
 1
-132
-'input option:
+124
+' input option 
 
-1- add two numbers 
+1- add two numbers
 
-2- subtracc two numbers 
+2- subtrac two numbers
 
-3 - multiple two numbers   
-
-4 - dividir two numbers
+3 - multiply two numbers
 
-0 - EXIT' 
+4 - divide two numbers
+
+0- EXIT'
 5
 1
 3
@@ -154,18 +154,18 @@ N1+N2
 13
 4
 1
-132
-'input option:
+123
+' input option 
 
-1- add two numbers 
+1- add two numbers
 
-2- subtracc two numbers 
+2- subtrac two numbers
 
-3 - multiple two numbers   
-
-4 - dividir two numbers
+3 -multiply two numbers
 
-0 - EXIT' 
+4 - divide two numbers
+
+0- EXIT'
 5
 1
 3
