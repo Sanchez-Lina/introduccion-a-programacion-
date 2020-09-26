@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+50
+'P1T15: largest of three numbers. By Lina Sanchez'
+4
+1
+19
+'Input the numbers'
+5
+1
+8
+N1,N2,N3
+7
+0
+1
+15
+N1=N2 AND N2=N3
+7
+0
+1
+5
+N1>N2
+7
+0
+1
+5
+N2>N3
+4
+1
+24
+'the largest number' ,N3
+13
+4
+1
+30
+' the largest number is:' , N2
+13
+13
+7
+0
+1
+5
+N1>N3
+13
+4
+1
+29
+'The largest number is:' , N1
+13
+13
+13
+4
+1
+20
+'the number is same'
+13
+1
