@@ -1,0 +1,129 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+54
+'P1T32: REGIONES DE COLOMBIA. By Lina Sanchez Romero' 
+4
+1
+163
+' ¿Que region quieres conocer?
+1. Región Amazonica
+2.Región de la Orinoquia
+3- Región Andina
+4- Región Pacifica
+5. Region Caribe
+6. Region Insular
+0. EXIT '
+5
+1
+3
+REG
+9
+1
+15
+REG>0 and REG<7
+7
+0
+1
+5
+REG=1
+7
+0
+1
+6
+REG=2 
+7
+0
+1
+5
+REG=3
+7
+0
+1
+5
+REG=4
+7
+0
+1
+5
+REG=5
+7
+0
+1
+5
+REG=6
+7
+0
+1
+5
+REG=0
+13
+4
+1
+6
+'EXIT'
+13
+13
+4
+1
+280
+'REGION INSULAR:
+ es el conjunto de las islas cayos e islotes alejadas de las costas continentales, como son el Archipiélago de San Andrés y Providencia en el mar Caribe y las islas Malpelo y Gorgona en el océano Pacífico. En ella no se cuentan las islas fluviales ni lacustres.'
+13
+13
+4
+1
+90
+'REGIÓN CARIBE: 
+es la región natural continental y marítima más septentrional del país.'
+13
+13
+4
+1
+205
+' REGION PACIFICA:
+es una de las seis regiones naturales de Colombia. Comprende casi la totalidad del departamento del Chocó y las zonas costeras de los departamentos del Valle del Cauca, Cauca y Nariño.'
+13
+13
+4
+1
+297
+'REGIÓN ANDINA:
+La región Andina es una de las seis regiones naturales de Colombia. Está ubicada en el centro del país limitando al norte con la región Caribe al noreste con Venezuela  al este con la Orinoquía al sureste con la Amazonia, al sur con Ecuador y al oeste con la región del Pacífico.'
+13
+13
+4
+1
+238
+'REGIÓN DE LA ORINOQUIA:
+ también conocida como Llanos Orientales es una de las 6 regiones naturales de Colombia. Está ubicada al este del país limitando al norte y este con Venezuela al sur con Amazonia y al oeste con la región andina.'
+13
+13
+4
+1
+250
+' REGION DE LA AMAZONIA:
+ Es una de las seis regiones naturales de Colombia. Está ubicada al sur del país limitando al norte con las regiones Andina y Orinoquía, al este con Venezuela al sureste con Brasil al sur con Perú y al suroeste con Ecuador.'
+13
+4
+1
+163
+' ¿Que region quieres conocer?
+1. Región Amazonica
+2.Región de la Orinoquia
+3- Región Andina
+4- Región Pacifica
+5. Region Caribe
+6. Region Insular 
+0. EXIT'
+5
+1
+3
+REG
+11
+1
