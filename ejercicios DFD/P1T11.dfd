@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'P1T11: HY´POTENUSE. By Lina Sanchez' 
+4
+1
+38
+' ingresa los valores de los catetos' 
+5
+1
+3
+a,b
+6
+2
+4
+HIP 
+13
+((a*a)+(b*b))
+6
+TOTALH
+10
+sqrt (HIP)
+4
+1
+46
+' La hipotenusa del triangulo es de:' , TOTALH
+1
