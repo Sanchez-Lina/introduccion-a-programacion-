@@ -1,0 +1,289 @@
+ Dfd (c)
+1
+1
+5
+0
+0
+4
+1
+47
+'P2T1: CALCULATOR (funcions). By Lina Sanchez' 
+4
+1
+123
+'input the option:
+1. add the numbers 
+2. substract the numbers
+3. multypli the numbers 
+4.divide the numbers
+0. EXIT'
+5
+1
+3
+OPT
+9
+1
+8
+ OPT !=0
+7
+0
+1
+5
+OPT=1
+7
+0
+1
+5
+OPT=2
+7
+0
+1
+5
+OPT=3
+13
+12
+1
+11
+SP_MULTIPLY
+0
+13
+13
+12
+1
+11
+SP_SUBTRACT
+0
+13
+13
+12
+1
+6
+SP_SUM
+0
+13
+11
+4
+1
+123
+'input the option:
+1. add the numbers 
+2. substract the numbers
+3. multypli the numbers 
+4.divide the numbers
+0. EXIT'
+5
+1
+3
+OPT
+1
+2
+1
+6
+SP_SUM
+0
+1
+33
+This program adds (sum) N numbers
+4
+1
+27
+' Input the total numbers' 
+5
+1
+1
+N
+6
+1
+3
+SUM
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+26
+' input the number value' 
+5
+1
+3
+NUM
+6
+1
+3
+SUM
+7
+SUM+NUM
+10
+4
+1
+19
+'the sum is:' , SUM
+3
+2
+1
+11
+SP_SUBTRACT
+0
+1
+33
+This program substract N numbers 
+4
+1
+28
+' input the total numbers ' 
+5
+1
+1
+N
+6
+1
+3
+SUB
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+24
+'Input the number value'
+5
+1
+3
+NUM
+7
+0
+1
+3
+i=1
+6
+1
+4
+SUB 
+7
+SUB-NUM
+13
+6
+1
+4
+SUB 
+7
+NUM-SUB
+13
+10
+4
+1
+24
+'the subtract is:' , SUB
+3
+2
+1
+11
+SP_MULTIPLY
+0
+1
+40
+This subprogram will multiply N numbers 
+4
+1
+25
+'input the total numbers'
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+25
+'Input the number value' 
+5
+1
+3
+NUM
+7
+0
+1
+3
+i=1
+6
+1
+3
+MUL
+7
+MUL*NUM
+13
+6
+1
+3
+MUL
+7
+NUM*MUL
+13
+10
+4
+1
+24
+'the multipli is:' , MUL
+3
+2
+1
+11
+SP_DIVISION
+0
+1
+30
+This program divide N numbers 
+4
+1
+34
+'input the numerator and divisor' 
+5
+1
+8
+NUM, DIV
+9
+1
+5
+DIV=0
+4
+1
+26
+'ERRPR: the number cannot 
+11
+3
