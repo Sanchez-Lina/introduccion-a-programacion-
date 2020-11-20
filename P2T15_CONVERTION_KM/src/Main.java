@@ -1,5 +1,10 @@
 //AUTHOR:LINA SANCHEZ
 // DATE:15/10/2020
+// DESCRIPTION: Este preogram realiza la conversion de:
+// ...................1. Millas a kilometros
+// ...................2. Kilometros a millas
+// ...................3. Peso colombiannos a USD
+//....................4. USD a pesos colombianos 
 
 import java.util.Scanner;
 public class Main {

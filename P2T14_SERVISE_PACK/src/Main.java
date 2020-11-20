@@ -1,6 +1,7 @@
 //AUTHOR: LIAN SANCHEZ
 // DATE: 9/10/2020
-// DESCRIPTION: this program calculate the cost for he parcel service is based on the weigth of the package
+// DESCRIPTION: this program calculate the cost for he parcel service is
+// .............based on the weigth of the package
 
 import java.util.Scanner;
 
