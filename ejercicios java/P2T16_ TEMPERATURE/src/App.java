@@ -9,7 +9,20 @@ public class App {
         System.out.println("DIFERENT CONVERSIONS. By Lina Sanchez");
         System.out.println("------------------------------------");
 
+        f_menu();
+        int option= f_option_convert();
+        if(option==1){
+            f_convert_c_f();
+        }else if(option==2){
+            f_convert_f_c();
+        }else if(option==3){
+            f_convert_k_c();
+        }else{
+            f_convert_c_k();
+        }
+
     }
+}
     public static int f_option(){
       // description: this program return the option 
       Scanner keyboard= new Scanner(System.in);
@@ -51,8 +64,27 @@ public class App {
         double convert=(value-32);
         System.out.println(value+"F° is"+convert+"C°");
         }
-
-
+    public static void f_convert_c_k(){
+        //DESCRIPTION:this program realice convert from °c to °k
+        Scanner keyboard = new Scanner(System.in);
+        System.out.println("----convert to °c to °k-----");
+        System.out.println("imput the value of °c:");
+        double  value=keyboard.nextDouble();
+        double convert=(value+273.15);
+        System.out.println(value+"°f is"+convert+"°c");
     }
-    
+
+    public static void f_convert_k_c(){
+        //DESCRIPTION:this program realice convert from °k to °c
+        Scanner keyboard = new Scanner(System.in);
+        System.out.println("----convert to °k to °c-----");
+        System.out.println("imput the value of °k:");
+        double  value=keyboard.nextDouble();
+        double convert=(value-273.15);
+        System.out.println(value+"°f is"+convert+"°c");
+    }
 }
+
+
+    
+
